@@ -1,1 +1,1 @@
-This repository is for ALX Backend in JS
+0x01-ES6_promise
